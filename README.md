@@ -1,1 +1,1 @@
-# ngrx-store-app
+# ngrx store application for hndling user authentication
