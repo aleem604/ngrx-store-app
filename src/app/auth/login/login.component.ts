@@ -34,6 +34,11 @@ export class LoginComponent implements OnInit {
   }
 
   login() {
+    if (this.form.valid) {
+      this.router.navigate(['./courses']);
+    }
+
+
 
   }
 
